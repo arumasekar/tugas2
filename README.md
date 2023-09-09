@@ -4,4 +4,6 @@ NPM     : 2206816115
 
 Kelas   : PBP B
 
-Hobi    : Tidur
+Hobi    : Membaca
+
+Jurusan : Sistem Informasi
